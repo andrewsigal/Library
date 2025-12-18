@@ -1,0 +1,43 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background-image: url("../images/library.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.header {
+  background-color: #b22222;
+  color: white;
+  text-align: center;
+  font-size: 36px;
+  font-weight: bold;
+  padding: 20px;
+  letter-spacing: 2px;
+}
+
+.nav {
+  background-color: white;
+  text-align: center;
+  padding: 10px;
+}
+
+.nav a {
+  margin: 0 20px;
+  text-decoration: none;
+  font-weight: bold;
+  color: blue;
+}
+
+.center-box {
+  background-color: white;
+  width: 60%;
+  margin: 100px auto;
+  padding: 40px;
+  text-align: center;
+}
+
+.center-box h1 {
+  color: green;
+  font-size: 36px;
+}

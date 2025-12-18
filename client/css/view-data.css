@@ -1,0 +1,61 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background-image: url("../images/library.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.header {
+  background-color: #b22222;
+  color: white;
+  text-align: center;
+  font-size: 36px;
+  font-weight: bold;
+  padding: 20px;
+  letter-spacing: 2px;
+}
+
+.nav {
+  background-color: white;
+  text-align: center;
+  padding: 10px;
+}
+
+.nav a {
+  margin: 0 20px;
+  text-decoration: none;
+  font-weight: bold;
+  color: blue;
+}
+
+.table-box {
+  background-color: white;
+  width: 80%;
+  margin: 70px auto;
+  padding: 25px;
+}
+
+.table-box h2 {
+  text-align: center;
+}
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+  margin-top: 15px;
+}
+
+table, th, td {
+  border: 1px solid black;
+}
+
+th, td {
+  padding: 8px;
+  text-align: left;
+}
+
+.delete-button {
+  padding: 6px 12px;
+  cursor: pointer;
+}

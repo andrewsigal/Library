@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "title": "The Hobbit",
+    "author": "J.R.R. Tolkien",
+    "publisher": "George Allen & Unwin",
+    "year": "1937",
+    "isbn": "9780547928227"
+  },
+  {
+    "id": 2,
+    "title": "1984",
+    "author": "George Orwell",
+    "publisher": "Secker & Warburg",
+    "year": "1949",
+    "isbn": "9780451524935"
+  },
+  {
+    "id": 3,
+    "title": "Dune",
+    "author": "Frank Herbert",
+    "publisher": "Chilton Books",
+    "year": "1965",
+    "isbn": "9780441172719"
+  },
+  {
+    "id": 4,
+    "title": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "publisher": "J.B. Lippincott & Co.",
+    "year": "1960",
+    "isbn": "9780061120084"
+  },
+  {
+    "id": 5,
+    "title": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "publisher": "Charles Scribner's Sons",
+    "year": "1925",
+    "isbn": "9780743273565"
+  }
+]
