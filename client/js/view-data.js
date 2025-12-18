@@ -1,10 +1,10 @@
 // view-data.js
 
 function activateDelete() {
-    // Select all delete buttons
+    // Delete buttons
     const deleteButtons = document.querySelectorAll('.delete-button');
 
-    // Attach event listener to each delete button
+    
     deleteButtons.forEach(button => {
         button.addEventListener('click', function() {
             const deleteID = this.getAttribute("data-id");  // get the record id
