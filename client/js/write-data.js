@@ -1,5 +1,5 @@
 // write-data.js
-// Function to clear input fields
+// clear input fields 
 function clearFields() {
   document.getElementById("title").value = "";
   document.getElementById("author").value = "";
@@ -7,7 +7,7 @@ function clearFields() {
   document.getElementById("year").value = "";
   document.getElementById("isbn").value = "";
 }
-// ssubmit button
+// Submit button
 document.getElementById("submitBtn").addEventListener("click", function () {
   var postData = {
     title: document.getElementById("title").value,
